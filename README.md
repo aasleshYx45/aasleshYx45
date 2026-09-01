@@ -51,42 +51,6 @@ currently   : Building OCR pipelines & Java desktop systems
 
 ---
 
-## 🚀 &nbsp; Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 OCR Bank Statement Extraction
-> *Demo Project — Advanced OCR Pipeline*
-
-- 🔀 Hybrid: **Camelot** (bordered) + **DBSCAN clustering** (borderless)
-- ⚡ **3× faster** with parallel processing & MD5 page caching
-- 🖥️ **GPU/OpenCL** detection + auto-DPI selection
-- 🧠 Tesseract + OCRmyPDF with **confidence filtering (>30%)**
-- 📦 Clean JSON output with layout data & table metadata
-
-[![Repo](https://img.shields.io/badge/🔗_View_on_GitHub-112240?style=for-the-badge&logoColor=00D9FF)](https://github.com/SHADOWXBOOSTER/OCR-Based-Bank-Statement-Extraction)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Campus Events Hub
-> *Course Project — Java Swing Desktop App*
-
-- 🏗️ **Full OOP**: abstraction, inheritance, polymorphism, encapsulation
-- 📅 Manages: **Hackathons, Fests, Seminars, Sports, Club Events**
-- 📝 **CRUD** + capacity-based participant registration
-- 📊 Real-time occupancy % & statistics dashboard
-- 🗂️ Java Collections: ArrayList, Vector, LinkedList
-
-[![Repo](https://img.shields.io/badge/🔗_View_on_GitHub-112240?style=for-the-badge&logoColor=00D9FF)](https://github.com/SHADOWXBOOSTER/CAMPUS-EVENTS-HUB-APPLICATION)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 👾 &nbsp; My Commits, Getting Devoured
 
